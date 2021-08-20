@@ -1,5 +1,5 @@
 const protagonists = [{
-    name: 'Luke',
+    name: 'Luke Skywalker',
     team: 'rebels',
     karmaScore: 2
   },
