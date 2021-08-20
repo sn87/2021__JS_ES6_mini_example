@@ -39,7 +39,7 @@ protagonists.map(function(protagonist) {
 console.log(rebels);
 console.log(tenTimesMoreEvilEmpire);
 
-// positive value: empire wins, negative value: rebels win
+// positive value: rebels wins, negative value: empire wins
 let battleValue = battle(rebels, tenTimesMoreEvilEmpire);
 console.log(winningTeam)
 if (battleValue > 0) {
